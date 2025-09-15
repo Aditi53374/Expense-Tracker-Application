@@ -1,5 +1,4 @@
 # Expense Tracker Dashboard (Streamlit)
-# Author: [Your Name]
 # Description: Web app for tracking and analyzing expenses with advanced filtering, dashboard KPIs, outlier detection, reports, charts, and import/export.
 
 import streamlit as st
